@@ -1,2 +1,0 @@
-# vierawealth
-Viera Wealth website

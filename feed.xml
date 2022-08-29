@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Viera Wealth Management</title>
+    <link href="https://bionicguy.github.io/vierawealth/feed.xml" rel="self" />
+    <link href="https://bionicguy.github.io/vierawealth" />
+    <updated>2022-08-29T14:42:51-04:00</updated>
+    <author>
+        <name>admin</name>
+    </author>
+    <id>https://bionicguy.github.io/vierawealth</id>
+
+    <entry>
+        <title>test viera</title>
+        <author>
+            <name>admin</name>
+        </author>
+        <link href="https://bionicguy.github.io/vierawealth/test-viera.html"/>
+        <id>https://bionicguy.github.io/vierawealth/test-viera.html</id>
+
+        <updated>2022-08-29T14:42:51-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

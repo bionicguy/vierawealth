@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Viera Wealth Management",
+    "description": "",
+    "home_page_url": "https://bionicguy.github.io/vierawealth",
+    "feed_url": "https://bionicguy.github.io/vierawealth/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "admin"
+    },
+    "items": [
+        {
+            "id": "https://bionicguy.github.io/vierawealth/test-viera.html",
+            "url": "https://bionicguy.github.io/vierawealth/test-viera.html",
+            "title": "test viera",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-29T14:41:26-04:00",
+            "date_modified": "2022-08-29T14:42:51-04:00"
+        }
+    ]
+}
