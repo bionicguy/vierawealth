@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://bionicguy.github.io/vierawealth/sitemap.xml
+Disallow: /
